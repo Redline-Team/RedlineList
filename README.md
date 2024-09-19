@@ -1,4 +1,4 @@
-# Redline Team VCC/ALCOM Repo  
+# Redline Team VCC/ALCOM List  
 Any packages that are NOT the Redline Package Manager are Refactored Packages  
 I include them here as another way to get them easily for those wanting them  
 # Alt URL in case main goes down  
