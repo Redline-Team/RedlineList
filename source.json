@@ -1,11 +1,11 @@
 {
     "name":"Redline List",
     "id":"dev.runaxr.redlinelist",
-    "url":"https://rlist.trigon.systems/index.json",
+    "url":"https://rlist.arch-linux.pro/index.json",
     "author":{
-        "email":"runaxr@c0dera.in",
-        "name":"RunaXR@c0dera.in",
-        "url":"https://c0dera.in"
+        "email":"runaxr@arch-linux.pro",
+        "name":"RunaXR@arch-linux.pro",
+        "url":"https://arch-linux.pro"
     },
     "description":"Redline's Listing for useful packages on Github",
     "infoLink":{
