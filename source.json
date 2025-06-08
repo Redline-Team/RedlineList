@@ -7,7 +7,7 @@
         "name":"AromaXR@arch-linux.pro",
         "url":"https://arch-linux.pro"
     },
-    "description":"Redline's Listing for useful packages on Github",
+    "description":"Redline's Listing for our packages on Github",
     "infoLink":{
         "url":"http://github.com/Redline-Team",
         "text":"View on GitHub"
@@ -19,23 +19,5 @@
         "Redline-Team/RHierarchy",
         "Redline-Team/Musicontrol",
         "Redline-Team/RedInspect",
-        "poiyomi/PoiyomiToonShader",
-        "PhoenixAceVFX/My-Hierarchy-Refactored",
-        "Dreadrith/HierarchyPlus",
-        "Dreadrith/BlendTreeBuilder",
-        "Dreadrith/VRCSDKPlus",
-        "Dreadrith/LimbControl",
-        "Dreadrith/QuickToggle",
-        "Dreadrith/AssetOrganizer",
-        "lilxyzw/lilToon",
-        "FACS01-01/FACS_Utilities",
-        "kurotu/VRCQuestTools",
-        "BlackStartx/VRC-Gesture-Manager",
-        "GabSith/Workflow-Tools",
-        "rurre/PumkinsAvatarTools",
-        "rrazgriz/RATS",
-        "rrazgriz/harmony-vpm",
-        "vrchat-community/EasyQuestSwitch",
-        "BluWizard10/Blu-Hierarchy",
     ]
 }
